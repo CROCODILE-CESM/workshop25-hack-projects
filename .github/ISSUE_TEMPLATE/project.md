@@ -8,24 +8,37 @@ assignees: ''
 
 ## Project Title
 
-**Summary:**  
+## Summary: 
 _A brief description of the project idea and its purpose._
 
-**Motivation:**  
+---
+
+## Motivation:  
 _Why is this project important or interesting?_
 
-**Goals:**  
+---
+
+## Goals:  
 - _List the main objectives or deliverables for the project._
 
-**Approach:**  
+---
+
+## Approach:  
 _Describe the proposed methods, tools, or technologies to use._
 
-**Skills Needed:**  
+---
+
+## Skills Needed:  
 - _List relevant skills (e.g., Python, data analysis, visualization, etc.)_
 
-**Possible Challenges:**  
+---
+
+## Possible Challenges:  
 - _Mention any anticipated difficulties or open questions._
 
-**References:**  
+
+---
+
+## References:  
 - _Links to relevant papers, datasets, code, or documentation._
 
